@@ -134,4 +134,6 @@ local highlights = {
   MiniJump = { fg = C.wbg, style = "bold" },
 }
 
+-- vim.cmd[[hi! link CursorColumn CursorLine]]
+
 return highlights

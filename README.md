@@ -5,6 +5,10 @@
   <img src="./assets/2022-05-17-123343_1692x794_scrot.png">
 </p>
 
+<p align="center">
+  <img src="./assets/2022-05-17-124412_1162x905_scrot.png">
+</p>
+
 ### Requirement
 * Neovim (nightly)
 
