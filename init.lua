@@ -63,7 +63,7 @@ require('packer').startup(function(use)
   -- use 'numToStr/Comment.nvim' -- "gc" to comment visual regions/lines
   -- use 'mjlbach/onedark.nvim'
   -- use 'tiagovla/tokyodark.nvim'
-  use 'kyazdani42/nvim-palenight.lua'
+  -- use 'kyazdani42/nvim-palenight.lua'
   -- use 'lukas-reineke/indent-blankline.nvim'
 end)
 
@@ -77,7 +77,7 @@ vim.api.nvim_create_autocmd('TextYankPost', {
   pattern = '*',
 })
 
--- require('mxc')
+require('mxc')
 require('core')
 require('configure')
 -- vim: ts=2 sts=2 sw=2 et

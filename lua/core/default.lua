@@ -40,7 +40,7 @@ vim.o.completeopt = 'menuone,noselect'
 -- vim.cmd [[set scrolloff=0]]
 -- vim.cmd [[set sidescrolloff=0]]
 -- vim.cmd [[set listchars=tab:>-,trail:~,extends:>,precedes:<]]
-vim.cmd [[colorscheme palenight]]
+-- vim.cmd [[colorscheme palenight]]
 -- vim.cmd [[colorscheme tokyodark]]
 
 -- Set completeopt to have a better completion experience
